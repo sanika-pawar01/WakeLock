@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme (Cozy Deep Navy/Charcoal) -->
+    <color name="bg_dark">#111827</color>
+    <color name="surface_dark">#1F2937</color>
+    <color name="surface_variant_dark">#374151</color>
+    <color name="accent_primary_dark">#8B8AEF</color>
+    <color name="accent_secondary_dark">#B8B5FF</color>
+    <color name="text_primary_dark">#F9FAFB</color>
+    <color name="text_secondary_dark">#9CA3AF</color>
+    <color name="card_stroke_dark">#2D3748</color>
+    <color name="hud_glass_bg_dark">#EE1F2937</color>
+
+    <!-- Light Theme (Warm Morning Soft Cream) -->
+    <color name="bg_light">#F8F7FC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant_light">#F3F4F6</color>
+    <color name="accent_primary_light">#6C63D9</color>
+    <color name="accent_secondary_light">#8B8AEF</color>
+    <color name="text_primary_light">#1F2937</color>
+    <color name="text_secondary_light">#6B7280</color>
+    <color name="card_stroke_light">#E5E7EB</color>
+    <color name="hud_glass_bg_light">#EEFFFFFF</color>
+
+    <!-- Universal Accents -->
+    <color name="success_teal">#10B981</color>
+    <color name="success_bg_dark">#064E3B</color>
+    <color name="success_bg_light">#D1FAE5</color>
+</resources>

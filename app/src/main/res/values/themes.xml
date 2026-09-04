@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WakeLock" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- System bar styling -->
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+
+    <!-- Custom TimePicker Theme ensuring high visibility in Dark/Light Mode -->
+    <style name="WakeLockTimePicker" parent="Widget.MaterialComponents.TimePicker">
+        <item name="android:textColorPrimary">@color/text_primary_dark</item>
+        <item name="android:textColorSecondary">@color/text_secondary_dark</item>
+        <item name="android:numbersTextColor">@color/text_primary_dark</item>
+        <item name="android:numbersSelectorColor">@color/accent_primary_dark</item>
+        <item name="android:numbersBackgroundColor">@color/surface_dark</item>
+    </style>
+</resources>
